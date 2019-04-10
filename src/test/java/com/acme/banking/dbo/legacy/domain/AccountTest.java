@@ -5,7 +5,7 @@ import org.junit.Ignore;
 import org.junit.Test;
 
 import static org.fest.assertions.api.Assertions.assertThat;
-
+//why not:)
 public class AccountTest {
     @Test @Ignore
     public void externalCodeShouldConcernStateConsistency() {
